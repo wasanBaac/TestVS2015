@@ -11,9 +11,5 @@ namespace TestGit
         {
             return 0;
         }
-        public static int GetNumber3()
-        {
-            return 2;
-        }
     }
 }
