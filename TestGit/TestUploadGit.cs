@@ -23,5 +23,9 @@ namespace TestGit
         {
             return 4;
         }
+        public static int GetNumber5()
+        {
+            return 5;
+        }
     }
 }
