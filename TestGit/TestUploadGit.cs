@@ -17,7 +17,7 @@ namespace TestGit
         }
         public static int GetNumber3()
         {
-            return 3;
+            return 11;
         }
         public static int GetNumber4()
         {
