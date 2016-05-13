@@ -7,5 +7,9 @@ namespace TestGit
 {
     public class TestUploadGit
     {
+        public static int GetNumber()
+        {
+            return 0;
+        }
     }
 }
